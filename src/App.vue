@@ -1,6 +1,6 @@
 <script setup>
 import SpaceHeader from './components/SpaceHeader.vue'
-import SignupForm from './components/SignupForm.vue'
+import SignupForm from './components/SignUpForm.vue'
 </script>
 
 <template>
